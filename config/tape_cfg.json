@@ -1,0 +1,6 @@
+{
+    "write_delay" : 500,
+    "read_delay"  : 300,
+    "move_delay"  : 200,
+    "tmp_path"    : "/tmp/"
+}
